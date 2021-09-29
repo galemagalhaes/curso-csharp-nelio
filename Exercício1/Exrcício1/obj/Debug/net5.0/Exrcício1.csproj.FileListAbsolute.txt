@@ -1,0 +1,16 @@
+D:\Udemy\CSharp_Nelio\Exrcício1\Exrcício1\bin\Debug\net5.0\Exrcício1.exe
+D:\Udemy\CSharp_Nelio\Exrcício1\Exrcício1\bin\Debug\net5.0\Exrcício1.deps.json
+D:\Udemy\CSharp_Nelio\Exrcício1\Exrcício1\bin\Debug\net5.0\Exrcício1.runtimeconfig.json
+D:\Udemy\CSharp_Nelio\Exrcício1\Exrcício1\bin\Debug\net5.0\Exrcício1.runtimeconfig.dev.json
+D:\Udemy\CSharp_Nelio\Exrcício1\Exrcício1\bin\Debug\net5.0\Exrcício1.dll
+D:\Udemy\CSharp_Nelio\Exrcício1\Exrcício1\bin\Debug\net5.0\ref\Exrcício1.dll
+D:\Udemy\CSharp_Nelio\Exrcício1\Exrcício1\bin\Debug\net5.0\Exrcício1.pdb
+D:\Udemy\CSharp_Nelio\Exrcício1\Exrcício1\obj\Debug\net5.0\Exrcício1.csproj.AssemblyReference.cache
+D:\Udemy\CSharp_Nelio\Exrcício1\Exrcício1\obj\Debug\net5.0\Exrcício1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Udemy\CSharp_Nelio\Exrcício1\Exrcício1\obj\Debug\net5.0\Exrcício1.AssemblyInfoInputs.cache
+D:\Udemy\CSharp_Nelio\Exrcício1\Exrcício1\obj\Debug\net5.0\Exrcício1.AssemblyInfo.cs
+D:\Udemy\CSharp_Nelio\Exrcício1\Exrcício1\obj\Debug\net5.0\Exrcício1.csproj.CoreCompileInputs.cache
+D:\Udemy\CSharp_Nelio\Exrcício1\Exrcício1\obj\Debug\net5.0\Exrcício1.dll
+D:\Udemy\CSharp_Nelio\Exrcício1\Exrcício1\obj\Debug\net5.0\ref\Exrcício1.dll
+D:\Udemy\CSharp_Nelio\Exrcício1\Exrcício1\obj\Debug\net5.0\Exrcício1.pdb
+D:\Udemy\CSharp_Nelio\Exrcício1\Exrcício1\obj\Debug\net5.0\Exrcício1.genruntimeconfig.cache
